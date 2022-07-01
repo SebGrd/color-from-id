@@ -1,0 +1,19 @@
+{
+  "name": "color-from-id",
+  "version": "1.0.0",
+  "description": "Get a random constant color from an id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/SebGrd/color-from-id"
+  },
+  "keywords": [
+    "color",
+    "id"
+  ],
+  "author": "SebGrd",
+  "license": "ISC"
+}
